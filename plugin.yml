@@ -1,0 +1,10 @@
+name: RewardPlugin
+version: 1.0.0
+api: 2.0.0
+main: zxcvbnmz3\test
+commands:
+  promocode:
+    description: Claim a promo code reward
+    usage: "/promocode <code>"
+    aliases:
+      - pcode
